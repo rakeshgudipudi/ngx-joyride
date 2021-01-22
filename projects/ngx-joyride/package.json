@@ -1,6 +1,6 @@
 {
-    "name": "ngx-joyride",
-    "version": "2.3.0",
+    "name": "rg-ngx-joyride",
+    "version": "0.1.2",
     "peerDependencies": {
         "@angular/common": ">=8.2.14",
         "@angular/core": ">=8.2.14"
